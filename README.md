@@ -13,20 +13,20 @@ A Pomodoro-style study timer that rewards users with points and levels for focus
 * Level progression and achievements
 * Study history calendar
 
-##Technologies Used
+## Technologies Used
 * Swift
 * SwiftUI
 * AVFoundation
 * UserNotifications
 * Combine
 
-##Installation
-#Requirements
+## Installation
+ # Requirements
 * macOS
 * Xcode 15 or newer
 * iOS Simulator or physical iPhone
 
-##How to Use
+## How to Use
 * Starting a Session
 * Choose a timer mode
 * Press the play button
