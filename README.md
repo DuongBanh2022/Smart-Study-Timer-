@@ -21,7 +21,7 @@ A Pomodoro-style study timer that rewards users with points and levels for focus
 * Combine
 
 ## Installation
- # Requirements
+Requirements
 * macOS
 * Xcode 15 or newer
 * iOS Simulator or physical iPhone
